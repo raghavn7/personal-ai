@@ -1,0 +1,11 @@
+llama-index-core>=0.10.0
+llama-index-embeddings-ollama>=0.1.0
+llama-index-llms-ollama>=0.1.0
+ollama>=0.1.0
+flask>=3.0.0
+flask-httpauth>=4.8.0
+httpx>=0.24.0
+python-dotenv>=1.0.0
+keyring>=24.0.0
+markdown>=3.4.0
+werkzeug>=3.0.0
